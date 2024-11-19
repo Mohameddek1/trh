@@ -1,0 +1,27 @@
+POST /returns HTTP/1.1
+Host: nahamstore.thm
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: multipart/form-data; boundary=---------------------------33405928208490676603140409325
+Content-Length: 435
+Origin: http://nahamstore.thm
+Connection: keep-alive
+Referer: http://nahamstore.thm/returns
+Cookie: session=e0ad7b0afcb43600b9424f3954a28166; token=e212ccd3dc202ad67fb3e574ca11f204
+Upgrade-Insecure-Requests: 1
+
+-----------------------------33405928208490676603140409325
+Content-Disposition: form-data; name="order_number"
+
+2
+-----------------------------33405928208490676603140409325
+Content-Disposition: form-data; name="return_reason"
+
+1
+-----------------------------33405928208490676603140409325
+Content-Disposition: form-data; name="return_info"
+
+1234567890234567890-
+-----------------------------33405928208490676603140409325--

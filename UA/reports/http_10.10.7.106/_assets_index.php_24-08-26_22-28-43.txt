@@ -1,0 +1,4 @@
+# Dirsearch started Mon Aug 26 22:34:17 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.7.106/assets/index.php?
+
+403   276B   http://10.10.7.106/assets/index.phps
+403   276B   http://10.10.7.106/assets/index.phps/sfsites/aura

@@ -1,0 +1,82 @@
+http://nahamstore.thm/search            
+http://nahamstore.thm/login                
+http://nahamstore.thm/register             
+http://nahamstore.thm/uploads             
+http://nahamstore.thm/staff                
+http://nahamstore.thm/css                 
+http://nahamstore.thm/js                   
+http://nahamstore.thm/logout               
+http://nahamstore.thm/basket               
+http://nahamstore.thm/returns              
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+[+] Url:                     http://marketing.nahamstore.thm/
+[+] Method:                  GET
+[+] Threads:                 100
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+Starting gobuster in directory enumeration mode
+[2K/6e6055bd53afb9b6e4394d76e35838c9 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/cfa5301358b9fcbe7aa45b1ceea088c6 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/f05221fb72cfbc1b85256abe00683bc4 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/cdd9dc973c4bf6bc852564ca006418a0 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/64356135653039353435383166306330 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/c097c40d3f9a53ff5c7ddfc2f7f1c05c (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/64356135653039353435613034323230 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/64356135653039353435613034616530 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/64356135653039353435613033613530 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/63646263373534393435386631383830 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/d2813bb8eb6c17bf8725725a007ec859 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/0000BDF20016F5DD010572CAEB316F4F (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/0000BDF20016F5DD0106E01622BE22F7 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/0000BDF20016F5DD010714BF3E1D9D73 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/0000BDF20016F5DD01070597FACFABDF (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/0000BDF20016F5DD010312E2BF5CDF8B (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/0000BDF20016F5DE010C8DB19BBD56DE (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/0000BDF20016F5DF0109B6637F89A9DC (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/0000BDF20016F5DD01070598C94A075F (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/7a69ce99e2ba00f7335ae0a8ae644087 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/358af665e81625dbdde1fdc704cc9c38 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/27e3ba3741dc31a28a09732331c7e763 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/1b51a08359c4ccf44d9323bff9f57fe1 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/1cf5818ed6da7d2460b3ed5a86021d97 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/ddb2efe64f5cd053fce1dcdba825143c (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/c55ccb753ee403d5b1846fc04775b5e1 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/eeaf72df4f307cfc7d6f6e8190dda18e (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/07840a36009e0b55cec33bd718a6d207 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/f188e102f7e4a96c1aac1d781ddde4ad (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/7b830347c50b917ede192d4457e20e34 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/bff40e98d654a441fb4eb11e9ae5d328 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/BCE481855CDDB2A8C2256CF00046777F (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/A4A37C0775794E72C2256CE9003E8064 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/937389028f61b80ee528cc1c073e90cb (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/47fdd908b5d373b6ea372e41a6e64010 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/52c6800ecf94285c7cf287061c8de669 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/fbf033bb052b4c5ab2f9ed71b28a304c (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/766d856ef1a6b02f93d894415e6bfa0e (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/4dcf435435894a4d0972046fc566af76 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/55c567fd4395ecef6d936cf77b8d5b2b (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/754dda4b1ba34c6fa89716b85d68532b (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/77f959f119f4fb2321e9ce801e2f5163 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/db0b8ca4d31149e1c6354a10214cb047 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/5475CDA198B938FACA256CD40007BBD0 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/1D198D8F9BCCABC3CA256C53000E1E42 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/3dad25e101cb7a4c273fc3787a0a06ca (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/fb8fb1b65f7e25e3412568ce0052e511 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/6dee8c20b2de65004125692e00693585 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/fd2d7e98a7944cc080256985004ee3e1 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/F53ED6575AAFC611B55C7BA37E5B7BF7 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/13E3EFA17084BC52802569AC003C03B5 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/29f5f44b75a32efa8025692700438088 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/70d5215f9c6985a5c1256d650027dbf3 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/E0993A3E67EF8021C12570A8004F3817 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/10B1B6E747C29A71C12570A8004F2606 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/ce053af5a230d6e6fba69e83b538c0c3 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/24BF2BC7CA735EED4A256B4800162838 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/9c678349c6517f9b32afce91a4299ffc (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+[2K/dc25659fbeac0af10281af48b04244d1 (Status: 302) [Size: 0] [--> /?error=Campaign+Not+Found]
+
+Finished

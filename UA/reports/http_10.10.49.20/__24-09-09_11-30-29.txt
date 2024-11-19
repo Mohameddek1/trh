@@ -1,0 +1,25 @@
+# Dirsearch started Mon Sep  9 11:35:47 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://10.10.49.20/
+
+403   276B   http://10.10.49.20/.ht_wsr.txt
+403   276B   http://10.10.49.20/.htaccess.bak1
+403   276B   http://10.10.49.20/.htaccess.sample
+403   276B   http://10.10.49.20/.htaccess.save
+403   276B   http://10.10.49.20/.htaccess_orig
+403   276B   http://10.10.49.20/.htaccess.orig
+403   276B   http://10.10.49.20/.htaccessOLD
+403   276B   http://10.10.49.20/.htaccessOLD2
+403   276B   http://10.10.49.20/.htaccessBAK
+403   276B   http://10.10.49.20/.htaccess_sc
+403   276B   http://10.10.49.20/.htaccess_extra
+403   276B   http://10.10.49.20/.htm
+403   276B   http://10.10.49.20/.htpasswd_test
+403   276B   http://10.10.49.20/.httr-oauth
+403   276B   http://10.10.49.20/.htpasswds
+403   276B   http://10.10.49.20/.html
+403   276B   http://10.10.49.20/.php
+200     1KB  http://10.10.49.20/about.html
+200     0B   http://10.10.49.20/assets/
+301   311B   http://10.10.49.20/assets    -> REDIRECTS TO: http://10.10.49.20/assets/
+200   924B   http://10.10.49.20/contact.html
+403   276B   http://10.10.49.20/server-status
+403   276B   http://10.10.49.20/server-status/

